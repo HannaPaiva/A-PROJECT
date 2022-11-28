@@ -16,7 +16,14 @@ const router = createBrowserRouter([
     path: "/",
     element: <App/>,
   },
- 
+  {
+    path: "/Cart",
+    element: <Cart/>,
+  },
+  {
+    path: "/Catalog",
+    element: <Catalog/>,
+  },
 ]);
  
  
