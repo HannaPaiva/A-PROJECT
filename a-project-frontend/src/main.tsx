@@ -7,8 +7,6 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
-import { Cart } from './views/carrinho';
-import { Catalog } from './views/Catalog';
 
 const router = createBrowserRouter([
 
